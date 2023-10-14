@@ -1,0 +1,58 @@
+{
+  "countries": [
+    {
+      "name": "KSA",
+      "currency": "SAR/month",
+      "prices": [
+        {
+          "type": "LITE",
+          "price": 15
+        },
+        {
+          "type": "CLASSIC",
+          "price": 25
+        },
+        {
+          "type": "PREMIUM",
+          "price": 60
+        }
+      ]
+    },
+    {
+      "name": "BH",
+      "currency": "BHD/month",
+      "prices": [
+        {
+          "type": "LITE",
+          "price":2
+        },
+        {
+          "type": "CLASSIC",
+          "price":3
+        },
+        {
+          "type": "PREMIUM",
+          "price":6
+        }
+      ]
+    },
+    {
+      "name": "KW",
+      "currency": "KWD/month",
+      "prices": [
+        {
+          "type": "LITE",
+          "price": 1.2
+        },
+        {
+          "type": "CLASSIC",
+          "price": 2.5
+        },
+        {
+          "type": "PREMIUM",
+          "price": 4.8
+        }
+      ]
+    }
+  ]
+}
